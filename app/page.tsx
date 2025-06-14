@@ -12,7 +12,7 @@ export default function HomePage() {
               <div className="w-6 h-6 rounded bg-[#01c79b] flex items-center justify-center">
                 <Chrome className="w-4 h-4 text-white" />
               </div>
-              <span className="text-lg font-semibold text-gray-900">Interests</span>
+              <span className="text-lg font-semibold text-gray-900">Remynix</span>
             </div>
 
             <nav className="hidden md:flex items-center gap-6">
@@ -36,8 +36,8 @@ export default function HomePage() {
         <div className="container mx-auto max-w-4xl text-center mb-4">
           {/* Main heading */}
           <h1 className="text-6xl md:text-7xl font-normal mb-6 leading-tight">
-            <span className="text-gray-400">Don't search,</span>{" "}
-            <span className="text-black font-normal">just save</span>
+            <span className="text-[#01c79b] font-semibold">Don't search,</span>{" "}
+            <span className="text-black font-semibold">just save</span>
           </h1>
 
           {/* Subheading */}
